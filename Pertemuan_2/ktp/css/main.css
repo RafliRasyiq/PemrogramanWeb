@@ -1,0 +1,248 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v30_93 {
+  width: 100%;
+  height: 720px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v31_113 {
+  width: 500px;
+  height: 317px;
+  background: url("../images/v31_113.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 109px;
+  left: 390px;
+  overflow: hidden;
+}
+.v30_94 {
+  width: 500px;
+  height: 317px;
+  background: rgba(187,218,237,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  overflow: hidden;
+}
+.v31_95 {
+  width: 103px;
+  height: 137px;
+  background: url("../images/v31_95.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 82px;
+  left: 370px;
+  overflow: hidden;
+}
+.v31_96 {
+  width: 154px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 23px;
+  left: 173px;
+  font-family: Orienta;
+  font-weight: Regular;
+  font-size: 15px;
+  opacity: 1;
+  text-align: center;
+}
+.v31_97 {
+  width: 313px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 74px;
+  left: 10px;
+  font-family: OCR A Std;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v31_98 {
+  width: 182px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 106px;
+  left: 10px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 11px;
+  opacity: 1;
+  text-align: center;
+}
+.v31_111 {
+  width: 76px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 132px;
+  left: 228px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 11px;
+  opacity: 1;
+  text-align: center;
+}
+.v31_112 {
+  width: 69px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 226px;
+  left: 387px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 11px;
+  opacity: 1;
+  text-align: center;
+}
+.v31_99 {
+  width: 228px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 119px;
+  left: 10px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 11px;
+  opacity: 1;
+  text-align: center;
+}
+.v31_100 {
+  width: 157px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 132px;
+  left: 10px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 11px;
+  opacity: 1;
+  text-align: center;
+}
+.v31_101 {
+  width: 270px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 145px;
+  left: 10px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 11px;
+  opacity: 1;
+  text-align: center;
+}
+.v31_103 {
+  width: 119px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 158px;
+  left: 35px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 11px;
+  opacity: 1;
+  text-align: center;
+}
+.v31_104 {
+  width: 162px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 171px;
+  left: 36px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 11px;
+  opacity: 1;
+  text-align: center;
+}
+.v31_105 {
+  width: 138px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 184px;
+  left: 35px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 11px;
+  opacity: 1;
+  text-align: center;
+}
+.v31_106 {
+  width: 139px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 197px;
+  left: 10px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 11px;
+  opacity: 1;
+  text-align: center;
+}
+.v31_107 {
+  width: 181px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 210px;
+  left: 10px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 11px;
+  opacity: 1;
+  text-align: center;
+}
+.v31_108 {
+  width: 224px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 223px;
+  left: 10px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 11px;
+  opacity: 1;
+  text-align: center;
+}
+.v31_109 {
+  width: 127px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 236px;
+  left: 10px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 11px;
+  opacity: 1;
+  text-align: center;
+}
+.v31_110 {
+  width: 191px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 249px;
+  left: 10px;
+  font-family: Arial;
+  font-weight: Regular;
+  font-size: 11px;
+  opacity: 1;
+  text-align: center;
+}
