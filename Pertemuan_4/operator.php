@@ -72,5 +72,18 @@ echo "Hasil dari ". $a ." identik dengan ". $b ." : $hasilIdentik <br>";
 echo "Hasil dari ". $a ." tidak identik dengan ". $b ." : $hasilTidakIdentik <br>";
 echo "<br><br>";
 
+/* 
+    Soal Cerita
+    Sebuah restoran memiliki 45 kursi di dalamnya. Pada suatu malam, 
+    28 kursi telah ditempati oleh pelanggan. 
+    Berapa persen kursi yang masih kosong di restoran tersebut?
+*/
 
+$kursi = 45;
+$kursiDitempati = 28;
+
+$kursiTersedia = $kursi - $kursiDitempati;
+$persentaseKursiKosong = ($kursiTersedia/$kursi) * 100;
+
+echo "Persentase kursi tersedia adalah: ". $persentaseKursiKosong ."<br>";
 ?>
