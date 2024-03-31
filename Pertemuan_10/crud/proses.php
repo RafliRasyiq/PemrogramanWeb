@@ -17,6 +17,7 @@ if ($aksi == 'tambah'){
     } else {
         echo "Gagal menambahkan data: " . mysqli_error($koneksi);
     }
+    // Praktikum 3
 } else if ($aksi == 'ubah'){
     if (isset($_POST['id'])) {
         $id = $_POST['id'];
@@ -31,6 +32,7 @@ if ($aksi == 'tambah'){
     } else {
         echo "ID tidak valid.";
     } 
+    // Praktikum 4
 } else if ($aksi == 'hapus'){
         if (isset($_GET['id'])) {
             $id = $_GET['id'];
